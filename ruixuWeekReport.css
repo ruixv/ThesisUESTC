@@ -1,0 +1,76 @@
+
+/* @theme ruixuWeekReport1 */
+
+@charset "UTF-8";
+@import 'uncover';
+@import url('https://fonts.googleapis.com/css?family=Lato:400,900|Roboto+Mono:400,700&display=swap');
+@import '~highlight.js/styles/sunburst';
+
+section {
+   font-size: 23px;
+   padding: 20px;
+   text-align: left;
+   font-family:Arial, SimHei, sans-serif;
+   background:rgb(255, 255, 255);
+  }
+ 
+  h1 {
+   text-align:left;
+   color: rgb(0, 0, 0);
+   margin-top: 80px;
+   margin-bottom: 0px;
+   font-size:70px;
+  }
+
+  h2 {
+    text-align:left;
+    color: rgb(0, 0, 0);
+    margin-top: 0px;
+    margin-bottom: 10px;
+    font-size:40px;
+  }
+
+  h3 {
+    color: rgb(0, 0, 0);
+    padding-top: 45px; 
+    font-size:35px;
+    text-align:left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+  h4 {
+    font-size:30px;
+    text-align:left;
+    margin-top: 5px;
+    margin-bottom: 5px;
+  }
+
+
+  h6 {
+    text-align:center;
+    font-size:30px;
+    text-align:left;
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+  header {
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    height: 40px;
+    background:rgb(0, 0, 0);
+    background-image: url("http://qiniu.ruixu.top/1648794582682----Radar%20Transformer_An%20Object%20Classification%20Network%20Based%20on%204D%20MMW%20Imaging%20Radar.png"); 
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-size: 110px;
+    text-align:left;
+    text-indent: 20px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    font-size:25px;
+  }
+
+
+  
